@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 - 💁‍♀️ My name is Emma (she/her) and I'm interested in all things bioinformatics and computational biology!
-- 👩‍💻 I am currently working as a PhD student at [IMBA Vienna](https://www.oeaw.ac.at/imba/research/anton-goloborodko/) working to better understand the 3D structure of genomes. This involves
+- 👩‍💻 I am currently working as a PhD student at [IMBA Vienna](https://www.oeaw.ac.at/imba/research/anton-goloborodko/) on better understanding the 3D structure of genomes. This involves
   - 🧫 data analysis of Hi-C and Micro-C experiments
   - 🖥 running and analyzing polymer simulations
   - 🧬 and developing new tools and acquiring new technical skills and biological knowledge for these purposes.
