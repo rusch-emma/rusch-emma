@@ -5,7 +5,7 @@
   - 🧫 data analysis of Hi-C and Micro-C experiments
   - 🖥 running and analyzing polymer simulations
   - 🧬 and developing new tools and acquiring new technical skills and biological knowledge for these purposes.
-- Reach out to me via <a href="https://aemail.com/Q1nG">📧 email</a> or find me on <a href="https://twitter.com/emma__rush" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15"/></a> or <a href="https://www.linkedin.com/in/emma-rusch-6917611ba/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15"/></a>
+- Reach out to me via <a href="https://aemail.com/Q1nG">📧 email</a> or find me on <a href="https://twitter.com/emma__rush" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15"/> Twitter</a> or <a href="https://www.linkedin.com/in/emma-rusch-6917611ba/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15"/> LinkedIn</a>
 
 ---
 
